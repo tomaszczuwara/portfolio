@@ -6,7 +6,7 @@ def startstop(func):
     return decorated_func
 
 @startstop
-def powitaj_trenera():
-    print(f"Cześć Maciek")
+def powitaj_rekrutera():
+    print(f"Cześć Królowo Rekrutacji")
 
-powitaj_trenera()
+powitaj_rekrutera()
